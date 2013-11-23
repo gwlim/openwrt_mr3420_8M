@@ -1,0 +1,2 @@
+d85a6258e422567dfd9670e6b0cf4c0b  bin/ar71xx/openwrt-ar71xx-generic-tl-mr3420-v1-squashfs-factory.bin
+77f688b5dce48ffd90e12f7d2608c5d2  bin/ar71xx/openwrt-ar71xx-generic-tl-mr3420-v1-squashfs-sysupgrade.bin
